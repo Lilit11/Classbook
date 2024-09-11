@@ -1,0 +1,100 @@
+{
+  "lessons": [
+    {
+      "id": "101",
+      "title": "Introduction to JavaScript",
+      "ratings": [
+        {
+          "id": "1001",
+          "student": "101",
+          "rate": "8"
+        },
+        {
+          "id": 1725981094529,
+          "student": "afc5",
+          "rate": 1
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "title": "Program Structure Part 1",
+      "ratings": [
+        {
+          "id": "1004",
+          "student": "103",
+          "rate": "10"
+        },
+        {
+          "id": 1725981220491,
+          "student": "5ece",
+          "rate": 7
+        }
+      ]
+    },
+    {
+      "id": "b2b0",
+      "title": "Loops",
+      "ratings": [
+        {
+          "id": 1725980823767,
+          "student": "103",
+          "rate": 4
+        }
+      ],
+      "param": {
+        "lessonId": "b2b0",
+        "student": "102",
+        "rate": 6
+      }
+    },
+    {
+      "id": "b4a3",
+      "title": "JS",
+      "ratings": [
+        {
+          "id": 1725981178991,
+          "student": "101",
+          "rate": 1
+        },
+        {
+          "id": 1725981183089,
+          "student": "103",
+          "rate": 6
+        },
+        {
+          "id": 1725981418546,
+          "student": "5ece",
+          "rate": 7
+        }
+      ]
+    }
+  ],
+  "students": [
+    {
+      "id": "101",
+      "name": "Tigran",
+      "surname": "Harutyunyan"
+    },
+    {
+      "id": "102",
+      "name": "Anna",
+      "surname": "Melqonyan"
+    },
+    {
+      "id": "103",
+      "name": "Lusine",
+      "surname": "Sahakyan"
+    },
+    {
+      "id": "5ece",
+      "name": "John",
+      "surname": "Doe"
+    },
+    {
+      "id": "afc5",
+      "name": "Will",
+      "surname": "Smith"
+    }
+  ]
+}
